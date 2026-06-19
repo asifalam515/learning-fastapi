@@ -1,2 +1,3 @@
-message = input("Tell me something about it then i will print this ")
-print(message)
+age = int(input("How old Are you ?"))
+if age>18:
+    print("You are an adult")
